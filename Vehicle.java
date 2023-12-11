@@ -9,8 +9,6 @@ public class Vehicle {
     String Brand;
     String Model;
     int Year;
-    int Weight;
-    int Wheels;
 
     public Vehicle(String brand, String model, int year) {
         Brand = brand;
